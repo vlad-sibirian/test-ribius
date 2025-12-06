@@ -1,0 +1,24 @@
+style.css
+body {
+  background-color: #47413b;
+  color: #d6d3d0;
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #ffc987;
+  font-size: 23px;
+}
+
+.brainrot {
+  color: #cebfff;
+}
+
+#bananini {
+  background-color: #a18b54;
+}
+
+#bananini h2 {
+  color: yellow;
+}
